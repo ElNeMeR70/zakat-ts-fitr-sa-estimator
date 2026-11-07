@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-fitr-sa-estimator",
+  "version": "1.0.0",
+  "description": "Zakat Al-Fitr Prophetic Sa' Weight & Household Staple Estimator (مقدر زكاة الفطر بالصاع النبوي والأوزان المعاصرة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
